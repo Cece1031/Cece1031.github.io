@@ -26,9 +26,9 @@ You can find my CV here: [Qingni's CV](../assets/wqn_phd.pdf).
 You can check out my publications and updates on my [Google Scholar profile](https://scholar.google.com/citations?user=awhNfL4AAAAJ). 
 
 # 🔥 News
-- *2024.11*: 🎉🎉 One paper **"ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees."** has been accepted to **EMNLP 2024 (Findings)**.
-- *2025.01*: 🎉🎉 One paper **"Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models"** has been accepted to **ICLR 2025 Spotlight (5%)**.
-- *2025.02*: 🎉🎉 One paper **"LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos."** has been accepted to **CVPR 2025**.
+- *2024.11*: 🎉🎉 One paper has been accepted to **EMNLP 2024 (Findings)**.
+- *2025.01*: 🎉🎉 One paper has been accepted to **ICLR 2025 Spotlight (5%)**.
+- *2025.02*: 🎉🎉 One paper has been accepted to **CVPR 2025**.
 
 # 📝 Publications
 
