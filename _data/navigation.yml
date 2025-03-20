@@ -1,7 +1,4 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/about-me/"
-
   - title: "CV"
-    url: "/-news/"
+    url: "https://cece1031.github.io/wangqingni.github.io/assets/wqn_phd.pdf"
