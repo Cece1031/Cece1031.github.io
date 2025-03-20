@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "wangqingni"
-  avatar           : "Wechat.png"
-  bio              : "Lorem ipsum College"
+  avatar           : "Wechat.JPG"
+  bio              : "UESTC"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=awhNfL4AAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "qingni1031@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
