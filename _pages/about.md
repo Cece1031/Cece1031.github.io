@@ -44,10 +44,8 @@ You can check out my publications and updates on my [Google Scholar profile](htt
 # 📖 Education
 - **China University of Mining and Technology (CUMT)** (2019.09 - 2023.06)
   - Bachelor’s degree in Electronic Information Science and Technology
-  - **GPA:** 3.86/5.00 (Rank **5/106**)
 - **University of Electronic Science and Technology of China (UESTC)** (2023.09 - Present)
   - Master's degree in Computer Science and Technology
-  - **GPA:** 3.54/4.00
 
 # 💬 Research Experience
 ### A General Framework for Risk Control and Assessment in Multimodal LLMs (ICLR 2025)
