@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Qingni Wang | Homepage"
+excerpt: "Master's student in Computer Science, specializing in Uncertainty Quantification and Multimodal LLMs."
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,42 +17,47 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+## About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am **Qingni Wang**, a Master's student in Computer Science at the **University of Electronic Science and Technology of China (UESTC)**. My research interests include:
+- **Uncertainty Quantification:** Conformal Prediction, Conformal Risk Control.
+- **Hallucination in Question Answering (QA) Tasks of Multimodal Large Language Models (MLLMs).**
 
+You can check out my publications and updates on my [Google Scholar profile](https://scholar.google.com/citations?user=awhNfL4AAAAJ). 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01*: 🎉🎉 My paper **"Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models"** has been accepted as an **ICLR 2025 Spotlight (5%)**.
+- *2025.02*: 🎉🎉 One paper has been accepted to **CVPR 2025**.
 
+# 📝 Publications
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+### Conference Papers:
+1. **Qingni Wang**, Tiantian Geng, Zhiyuan Wang, Teng Wang, Bo Fu*, Feng Zheng*. "Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models." **ICLR 2025 (Spotlight).** [[Paper]](https://openreview.net/forum?id=9WYMDgxDac)
+2. **Tiantian Geng, Jinrui Zhang, Qingni Wang**, Teng Wang, Jinming Duan*, Feng Zheng*. "LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos." **CVPR 2025.**
+3. **Zhiyuan Wang, Jinhao Duan, Lu Cheng, Yue Zhang, Qingni Wang**, Xiaoshuang Shi*, Kaidi Xu, Hengtao Shen, Xiaofeng Zhu. "ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees." **EMNLP 2024 (Findings).** [[Paper]](https://aclanthology.org/2024.findings-emnlp.404/)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Academic Seedling Award**, 2025
+- **Outstanding Student Scholarship**, 2023, 2024
+- **First Prize Scholarship**, 2020, 2021
 
-# 📖 Educations
-- *2019.09 - 2023.06*, China University of Mining and Technology. 
-- *2023.09 - 2026.06（now）*, University of Electronic Science and Technology of China. 
+# 📖 Education
+- **China University of Mining and Technology (CUMT)** (2019.09 - 2023.06)
+  - Bachelor’s degree in Electronic Information Science and Technology
+  - **GPA:** 3.86/5.00 (Rank **5/106**)
+- **University of Electronic Science and Technology of China (UESTC)** (2023.09 - Present)
+  - Master's degree in Computer Science and Technology
+  - **GPA:** 3.54/4.00
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Research Experience
+### A General Framework for Risk Control and Assessment in Multimodal LLMs (ICLR 2025)
+- Developed **TRON**, a two-step risk management framework for VideoQA tasks in MLLMs.
+- Proposed a **Sampling Step** (conformal score calibration) and an **Identification Step** (non-conformity score based on self-consistency theory).
+- Achieved rigorous guarantees of marginal coverage and minimum sampling size in open-domain QA tasks.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+### LongVALE: Vision-Audio-Language-Event Benchmark (CVPR 2025)
+- Conducted comprehensive evaluation of various MLLMs on the **LongVALE benchmark dataset**.
+- Analyzed model performance across different metrics, identifying strengths and weaknesses in handling multimodal tasks.
+
+# 📩 Contact
+**Email:** qingni1031@gmail.com
