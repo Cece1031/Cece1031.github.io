@@ -58,7 +58,6 @@ You can check out my publications and updates on my [Google Scholar profile](htt
 
 ### LongVALE: Vision-Audio-Language-Event Benchmark (CVPR 2025)
 - Conducted comprehensive evaluation of various MLLMs on the **LongVALE benchmark dataset**.
-- Analyzed model performance across different metrics, identifying strengths and weaknesses in handling multimodal tasks.
 
 # 📩 Contact
 **Email:** qingni1031@gmail.com
