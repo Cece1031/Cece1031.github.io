@@ -5,11 +5,7 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
-    {% if author.avatar contains "://" or author.avatar contains "/images/" %}
-      <img src="{{ author.avatar }}" alt="{{ author.name }}">
-    {% else %}
-      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
-    {% endif %}
+    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div>
 
 
