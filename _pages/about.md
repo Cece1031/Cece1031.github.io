@@ -49,6 +49,9 @@ You can check out my publications and updates on my [Google Scholar profile](htt
   - Bachelor’s degree in Electronic Information Science and Technology
 - **University of Electronic Science and Technology of China (UESTC)** (2023.09 - Present)
   - Master's degree in Computer Science and Technology
+# 👩🏻‍💻 Visiting
+- **(SUSTECH)** (2024.06 - 2024.10)
+  - Supervised by [[prof.Feng Zheng]](https://scholar.google.com/citations?user=PcmyXHMAAAAJ&hl=en)
 
 # 💬 Research Experience
 ### A General Framework for Risk Control and Assessment in Multimodal LLMs (ICLR 2025)
