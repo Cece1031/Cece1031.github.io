@@ -49,7 +49,7 @@ You can check out my publications and updates on my [Google Scholar profile](htt
   - Bachelor’s degree in Electronic Information Science and Technology
 - **University of Electronic Science and Technology of China (UESTC)** (2023.09 - Present)
   - Master's degree in Computer Science and Technology
-  - Supervised by [[prof.Bo Fu]](https://en.uestc.edu.cn/info/1074/2136.htm))
+  - Supervised by [[prof.Bo Fu]](https://en.uestc.edu.cn/info/1074/2136.htm)
 
 # 👩🏻‍💻 Visiting
 - **Southern University of Science and Technology(SUSTECH)** (2024.06 - 2024.10)
