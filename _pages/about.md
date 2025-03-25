@@ -23,7 +23,7 @@ I am **Qingni Wang**, a Master's student in Computer Science at the **University
 - **Uncertainty Quantification:** Conformal Prediction, Conformal Risk Control.
 - **Hallucination in Question Answering (QA) Tasks of Multimodal Large Language Models (MLLMs).**
 
-You can find my CV here: [Qingni's Curriculum Vitae](../assets/wqn_phd.pdf).
+You can find my CV here: [Qingni's Curriculum Vitae](../assets/wqn.pdf).
 
 You can check out my publications and updates on my [Google Scholar profile](https://scholar.google.com/citations?user=awhNfL4AAAAJ). 
 
