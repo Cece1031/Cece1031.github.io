@@ -44,17 +44,6 @@ You can check out my publications and updates on my [Google Scholar profile](htt
 - **Outstanding Student Scholarship**, 2023, 2024
 - **First Prize Scholarship**, 2020, 2021
 
-# 📖 Education
-- **China University of Mining and Technology (CUMT)** (2019.09 - 2023.06)
-  - Bachelor’s degree in Electronic Information Science and Technology
-- **University of Electronic Science and Technology of China (UESTC)** (2023.09 - Present)
-  - Master's degree in Computer Science and Technology
-  - Supervised by [[prof.Bo Fu]](https://en.uestc.edu.cn/info/1074/2136.htm)
-
-# 👩🏻‍💻 Visiting
-- **Southern University of Science and Technology(SUSTECH)** (2024.06 - 2024.10)
-  - Supervised by [[prof.Feng Zheng]](https://scholar.google.com/citations?user=PcmyXHMAAAAJ&hl=en)
-
 # 💬 Research Experience
 ### A General Framework for Risk Control and Assessment in Multimodal LLMs (ICLR 2025)
 - Developed **TRON**, a two-step risk management framework for VideoQA tasks in MLLMs.
