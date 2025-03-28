@@ -19,7 +19,7 @@ redirect_from:
 
 ## About Me
 
-I am **Qingni Wang**, a Master's student in Computer Science at the **University of Electronic Science and Technology of China (UESTC)**. My research interests include:
+I am **Qingni Wang**, a Master's student in Computer Science at the **University of Electronic Science and Technology of China (UESTC)**, supervised by [prof. Bo Fu](https://en.uestc.edu.cn/info/1074/2136.htm). Previously, I earned my Bachelor’s degree in Electronic Information Science and Technology from **China University of Mining and Technology (CUMT)** (2019.09 - 2023.06). I also visited the **Southern University of Science and Technology (SUSTECH)** (2024.06 - 2024.10), where I was supervised by [prof. Feng Zheng](https://scholar.google.com/citations?user=PcmyXHMAAAAJ&hl=en). My research interests include:
 - **Uncertainty Quantification:** Conformal Prediction, Conformal Risk Control.
 - **Hallucination in Question Answering (QA) Tasks of Multimodal Large Language Models (MLLMs).**
 
