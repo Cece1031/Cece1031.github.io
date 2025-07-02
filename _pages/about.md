@@ -28,9 +28,9 @@ You can find my CV here: [Qingni's Curriculum Vitae](../assets/wqn_phd(1).pdf).
 You can check out my publications and updates on my [Google Scholar profile](https://scholar.google.com/citations?user=awhNfL4AAAAJ). 
 
 # 🔥 News
-- *2025.05*: 🎉🎉 One paper has been accepted to **ACL 2025(Main)**
+- *2025.05*: 🎉🎉 One paper has been accepted to **ACL 2025(Main)**！See you in Vienna🇦🇹！
 - *2025.02*: 🎉🎉 One paper has been accepted to **CVPR 2025**.
-- *2025.01*: 🎉🎉 One paper has been accepted to **ICLR 2025 Spotlight (5%)**.
+- *2025.01*: 🎉🎉 One paper has been accepted to **ICLR 2025 Spotlight (5%)**！See you in Singapore🇸🇬！
 - *2024.11*: 🎉🎉 One paper has been accepted to **EMNLP 2024 (Findings)**.
 
 
