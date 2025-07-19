@@ -61,9 +61,5 @@ You can check out my publications and updates on my [Google Scholar profile](htt
   <img src="../assets/bing.jpg" alt="Bingbing(饼饼)" style="width: 50%;">
 </div>
 
-<div style="text-align:center; margin-top: 50px;">
-  <a href="http://s01.flagcounter.com/more/Qk3">
-    <img src="https://s01.flagcounter.com/count/Qk3/bg_FAFFF5/txt_1DB592/border_000302/columns_2/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
-  </a>
-</div>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=GmQTJITWBrhki7IrC2ZWaghIYzQxLnX-THewU48IXW8"></script>
 
