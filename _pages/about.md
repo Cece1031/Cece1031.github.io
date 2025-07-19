@@ -61,5 +61,3 @@ You can check out my publications and updates on my [Google Scholar profile](htt
   <img src="../assets/bing.jpg" alt="Bingbing(饼饼)" style="width: 50%;">
 </div>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=GmQTJITWBrhki7IrC2ZWaghIYzQxLnX-THewU48IXW8"></script>
-
