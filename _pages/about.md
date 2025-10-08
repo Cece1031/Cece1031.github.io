@@ -24,7 +24,7 @@ I am **Qingni Wang**, a Master's student in Computer Science at the **University
 - **Hallucination in Question Answering (QA) Tasks of Multimodal Large Language Models (MLLMs).**
 - **Trustworthy AI Agents: Risk-Aware Planning and Reliable Task Execution.**
 
-You can find my CV here: [Qingni's Curriculum Vitae](../assets/wqn_phd(1).pdf).
+You can find my CV here: [Qingni's Curriculum Vitae](../assets/wqn_phd.pdf).
 
 You can check out my publications and updates on my [Google Scholar profile](https://scholar.google.com/citations?user=awhNfL4AAAAJ). 
 
