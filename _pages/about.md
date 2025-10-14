@@ -43,7 +43,8 @@ You can check out my publications and updates on my [Google Scholar profile](htt
 2. **Qingni Wang**, Yue Fan, Xin Eric Wang. "SAFER: Risk-Constrained Sample-then-Filter in Large Language Models." Under review.[[Paper]](https://arxiv.org/pdf/2510.10193)
 4. Zhiyuan Wang†, **Qingni Wang†**, Yue Zhang, Tianlong Chen, Xiaofeng Zhu, Xiaoshuang Shi, Kaidi Xu. "SConU: Selective Conformal Uncertainty in Large Language Models." **ACL 2025(Main).** [[Paper]](https://arxiv.org/pdf/2504.14154)
 5. Tiantian Geng, Jinrui Zhang, **Qingni Wang**, Teng Wang, Jinming Duan*, Feng Zheng*. "LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos." **CVPR 2025.**[[Paper]](https://arxiv.org/pdf/2411.19772)
-6. Zhiyuan Wang, Jinhao Duan, Lu Cheng, Yue Zhang, **Qingni Wang**, Xiaoshuang Shi*, Kaidi Xu, Hengtao Shen, Xiaofeng Zhu. "ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees." **EMNLP 2024 (Findings).** [[Paper]](https://aclanthology.org/2024.findings-emnlp.404/)
+6. Zhiyuan Wang, Jinhao Duan, **Qingni Wang**, Xiaofeng Zhu, Tianlong Chen, Xiaoshuang Shi, Kaidi Xu.“COIN: Uncertainty-Guarding Selective Question Answering for Foundation Models with Provable Risk Guarantees.” Under review. [[Paper]](https://arxiv.org/pdf/2506.20178)
+7. Zhiyuan Wang, Jinhao Duan, Lu Cheng, Yue Zhang, **Qingni Wang**, Xiaoshuang Shi*, Kaidi Xu, Hengtao Shen, Xiaofeng Zhu. "ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees." **EMNLP 2024 (Findings).** [[Paper]](https://aclanthology.org/2024.findings-emnlp.404/)
 
 # 🎖 Honors and Awards
 - **Academic Seedling Award**, 2025
