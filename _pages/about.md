@@ -52,7 +52,10 @@ You can check out my publications and updates on my [Google Scholar profile](htt
 
 
 # 📜 Academic Services
-- Annual Meeting of the Association for Computational Linguistics (ACL)
+- Annual Meeting of the Association for Computational Linguistics (ACL 2025)
+- Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)
+- ACM International Conference on Multimedia (MM 2025)
+- International Conference on Learning Representations (ICLR 2026)
 
 # 📩 Contact
 **Email:** qingni1031@gmail.com
