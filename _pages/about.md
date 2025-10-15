@@ -28,7 +28,9 @@ You can find my CV here: [Qingni's Curriculum Vitae](../assets/wqn_phd.pdf).
 
 You can check out my publications and updates on my [Google Scholar profile](https://scholar.google.com/citations?user=awhNfL4AAAAJ). 
 
-# 🔥 News
+🔥🔥Seeking Ph.D. opportunities for Fall 2026🔍 ! Also open to collaborations and academic discussions — feel free to reach out!
+
+# 🌍 News
 - *2025.05*: 🎉🎉 One paper has been accepted to **ACL 2025(Main)**！See you in Vienna🇦🇹！
 - *2025.02*: 🎉🎉 One paper has been accepted to **CVPR 2025**.
 - *2025.01*: 🎉🎉 One paper has been accepted to **ICLR 2025 Spotlight (5%)**！See you in Singapore🇸🇬！
@@ -47,16 +49,20 @@ You can check out my publications and updates on my [Google Scholar profile](htt
 7. Zhiyuan Wang, Jinhao Duan, Lu Cheng, Yue Zhang, **Qingni Wang**, Xiaoshuang Shi, Kaidi Xu, Hengtao Shen, Xiaofeng Zhu. "ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees." **EMNLP 2024 (Findings).** [[Paper]](https://aclanthology.org/2024.findings-emnlp.404/)
 
 # 🎖 Honors and Awards
-- **Academic Seedling Award**, 2025
-- **Outstanding Student Scholarship**, 2023, 2024
-- **First Prize Scholarship**, 2020, 2021
-
+- **Academic Seedling Award**,
+- **National Scholarship**,
+- **Outstanding Student**, 
+- **First Prize Scholarship**,
+  
 
 # 📜 Academic Services
 - Annual Meeting of the Association for Computational Linguistics (ACL 2025)
 - Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)
 - ACM International Conference on Multimedia (MM 2025)
 - International Conference on Learning Representations (ICLR 2026)
+
+# Language Proficiency
+IELTS 7.5 (Sep 2025)
 
 # 📩 Contact
 **Email:** qingni1031@gmail.com
