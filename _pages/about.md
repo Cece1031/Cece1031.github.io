@@ -44,8 +44,8 @@ You can check out my publications and updates on my [Google Scholar profile](htt
 ### Conference Papers:
 † means equal contribution
 1. **Qingni Wang**, Tiantian Geng, Zhiyuan Wang, Teng Wang, Bo Fu, Feng Zheng. "Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models." **ICLR 2025 (Spotlight).** [[Paper]](https://openreview.net/forum?id=9WYMDgxDac)
-2. **Qingni Wang**, Yue Fan, Xin Eric Wang. "SAFER: Risk-Constrained Sample-then-Filter in Large Language Models." **ICLR 2026.**.[[Paper]](https://arxiv.org/pdf/2510.10193)
-3. **Qingni Wang**, Yue Fan, Xin Eric Wang. "SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration." Preprint. [[Paper]](https://arxiv.org/pdf/2602.02419)
+2. **Qingni Wang**, Yue Fan, Xin Eric Wang. "SAFER: Risk-Constrained Sample-then-Filter in Large Language Models." **ICLR 2026.**[[Paper]](https://arxiv.org/pdf/2510.10193)
+3. **Qingni Wang†**, Yue Fan†, Xin Eric Wang. "SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration." Preprint. [[Paper]](https://arxiv.org/pdf/2602.02419)
 4. Zhiyuan Wang†, **Qingni Wang†**, Yue Zhang, Tianlong Chen, Xiaofeng Zhu, Xiaoshuang Shi, Kaidi Xu. "SConU: Selective Conformal Uncertainty in Large Language Models." **ACL 2025(Main).** [[Paper]](https://arxiv.org/pdf/2504.14154)
 5. Tiantian Geng, Jinrui Zhang, **Qingni Wang**, Teng Wang, Jinming Duan, Feng Zheng. "LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos." **CVPR 2025.**[[Paper]](https://arxiv.org/pdf/2411.19772)
 6. Zhiyuan Wang, Jinhao Duan, **Qingni Wang**, Xiaofeng Zhu, Tianlong Chen, Xiaoshuang Shi, Kaidi Xu. “COIN: Uncertainty-Guarding Selective Question Answering for Foundation Models with Provable Risk Guarantees.” **AAAI 2025**. [[Paper]](https://arxiv.org/pdf/2506.20178)
