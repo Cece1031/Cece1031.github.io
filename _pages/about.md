@@ -31,7 +31,7 @@ You can check out my publications and updates on my [Google Scholar profile](htt
 🔥🔥**Seeking PhD opportunities for Fall 2026🔍 !** Also open to collaborations and academic discussions — feel free to reach out!
 
 # 🌍 News
-- *2026.01*: 🎉🎉 Two paper has been accepted to **ICLR 2026**! See you in Brazil🇧🇷！
+- *2026.01*: 🎉🎉 Two papers have been accepted to **ICLR 2026**! See you in Brazil🇧🇷！
 - *2025.11*: 🎉🎉 One paper has been accepted to **AAAI 2025**.
 - *2025.05*: 🎉🎉 One paper has been accepted to **ACL 2025(Main)**！See you in Vienna🇦🇹！
 - *2025.02*: 🎉🎉 One paper has been accepted to **CVPR 2025**.
