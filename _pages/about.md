@@ -28,7 +28,7 @@ You can find my CV here: [Qingni's Curriculum Vitae](../assets/wqn_phd.pdf).
 
 You can check out my publications and updates on my [Google Scholar profile](https://scholar.google.com/citations?user=awhNfL4AAAAJ). 
 
-🔥🔥**Seeking PhD opportunities for Fall 2026🔍 !** Also open to collaborations and academic discussions — feel free to reach out!
+🔥🔥 Open to collaborations and academic discussions — feel free to reach out!
 
 # 🌍 News
 - *2026.01*: 🎉🎉 Two papers have been accepted to **ICLR 2026**! See you in Brazil🇧🇷！
