@@ -65,7 +65,7 @@ You can check out my publications and updates on my [Google Scholar profile](htt
 
 # 🙋🏻‍♀️ More about me
 
-- I have a very cute cat named Bingbing (饼饼)!!! 🐱 And in my free time, I enjoy swimming. 🏊‍♀️
+- I have a very cute cat named Bingbing (饼饼)!!! 🐱 
 
 <div style="text-align: center;">
   <img src="../assets/bing.jpg" alt="Bingbing(饼饼)" style="width: 50%;">
