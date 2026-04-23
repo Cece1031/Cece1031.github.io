@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "wangqingni"
-description              : "Master student UESTC"
+# description              : "Master student UESTC"
 repository               : "https://Cece1031.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qingni Wang(王清霓)"
   avatar           : "assets/mountain.jpg"
-  bio              : "UESTC"
+  # bio              : "UESTC"
   location         : "Chengdu, China"
-  Hometown         : "Mianyang, Sichuan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=awhNfL4AAAAJ"
