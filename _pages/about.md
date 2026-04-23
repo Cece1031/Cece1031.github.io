@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Qingni Wang | Homepage"
-excerpt: "Master's student in Computer Science, specializing in Uncertainty Quantification and Multimodal LLMs."
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
