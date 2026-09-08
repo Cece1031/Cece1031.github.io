@@ -28,7 +28,7 @@ author:
   name             : "Qingni Wang(王清霓)"
   avatar           : "assets/mountain.jpg"
   # bio              : "UESTC"
-  location         : "Chengdu, China"
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=awhNfL4AAAAJ"
@@ -64,7 +64,7 @@ author:
 
 # Compact Flag Counter map; generated for this homepage without an account.
 visitor_map_url: "https://s01.flagcounter.com/map/OpEY/size_t/txt_765783/border_EADFEA/pageviews_1/viewers_3/flags_0/"
-visitor_map_stats_url: "https://info.flagcounter.com/OpEY"
+visitor_map_stats_url: "https://s01.flagcounter.com/more/OpEY/"
 
 
 # Reading Files

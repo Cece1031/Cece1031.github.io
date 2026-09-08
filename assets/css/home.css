@@ -9,6 +9,28 @@
   --sans: "DM Sans", Arial, sans-serif;
 }
 
+@font-face {
+  font-family: "Font Awesome 5 Free";
+  src: url("../fonts/fa-solid-900.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 900;
+  font-display: block;
+}
+@font-face {
+  font-family: "Font Awesome 5 Brands";
+  src: url("../fonts/fa-brands-400.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+}
+@font-face {
+  font-family: "Academicons";
+  src: url("../fonts/academicons.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+}
+
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; scroll-padding-top: 80px; }
 body {
@@ -112,11 +134,6 @@ nav a {
   line-height: 1.65;
 }
 .profile-role strong { color: var(--ink); font-weight: 500; }
-.profile-location {
-  margin: 0 0 13px;
-  color: #8a838d;
-  font-size: 10px;
-}
 .profile-links {
   display: flex;
   flex-direction: column;
@@ -135,7 +152,24 @@ nav a {
 }
 .profile-links a span {
   color: var(--pink);
-  font-size: 12px;
+  font-size: 13px;
+}
+.social-icon {
+  width: 18px;
+  color: var(--purple) !important;
+  text-align: center;
+}
+.icon-solid { font-family: "Font Awesome 5 Free"; font-weight: 900; }
+.icon-brand { font-family: "Font Awesome 5 Brands"; font-weight: 400; }
+.icon-scholar { font-family: "Academicons"; }
+.icon-email::before { content: "\f0e0"; }
+.icon-scholar::before { content: "\e828"; }
+.icon-github::before { content: "\f09b"; }
+.icon-linkedin::before { content: "\f08c"; }
+.icon-x {
+  font-family: Arial, sans-serif;
+  font-size: 12px !important;
+  font-weight: 700;
 }
 
 .visitor-mini {
@@ -353,7 +387,6 @@ nav a {
   .profile h1 { margin-top: 3px; font-size: 25px; }
   .name-cn { margin-bottom: 9px; }
   .profile-role { margin-bottom: 4px; }
-  .profile-location { margin-bottom: 8px; }
   .profile-links {
     flex-direction: row;
     flex-wrap: wrap;
@@ -383,7 +416,6 @@ nav a {
   .profile { grid-template-columns: 94px 1fr; gap: 15px; }
   .profile-photo { width: 94px; height: 118px; }
   .profile h1 { font-size: 22px; }
-  .profile-location { display: none; }
   .profile-links { grid-column: 1 / -1; }
   .section-heading-row { align-items: flex-start; }
 }

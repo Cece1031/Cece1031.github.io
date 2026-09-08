@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: "Qingni Wang | Homepage"
-excerpt: "Incoming PhD student at UC Santa Barbara researching trustworthy AI, uncertainty quantification, and computer use agents."
+excerpt: "PhD student at UC Santa Barbara researching trustworthy AI, uncertainty quantification, and computer use agents."
 redirect_from:
   - /about/
   - /about.html
@@ -12,8 +12,7 @@ redirect_from:
   <img class="profile-photo" src="{{ site.author.avatar | relative_url }}" alt="Qingni Wang" width="1280" height="1975">
   <h1>Qingni Wang</h1>
   <p class="name-cn" lang="zh">王清霓 <span>· Celia</span></p>
-  <p class="profile-role">Incoming PhD Student<br><strong>UC Santa Barbara</strong></p>
-  <p class="profile-location">Chengdu, China → Santa Barbara, CA</p>
+  <p class="profile-role">PhD Student<br><strong>UC Santa Barbara</strong></p>
 
   <div class="profile-links">
     {% include social-links.html %}
@@ -31,8 +30,8 @@ redirect_from:
 <div id="content" class="content">
   <section id="about" class="content-section about">
     <h2>About Me</h2>
-    <p>I am <strong>Qingni Wang (Celia)</strong>, a Master’s student in Computer Science at the <strong>University of Electronic Science and Technology of China (UESTC)</strong>. I will join the <strong>University of California, Santa Barbara (UCSB)</strong> as a PhD student, advised by <a href="https://eric-xw.github.io" target="_blank" rel="noopener noreferrer">Prof. Xin Eric Wang</a> and <a href="https://buyuheng.github.io" target="_blank" rel="noopener noreferrer">Prof. Yuheng Bu</a>.</p>
-    <p>Previously, I received my Bachelor’s degree from <strong>China University of Mining and Technology (CUMT)</strong> and visited <strong>Southern University of Science and Technology (SUSTECH)</strong>, supervised by <a href="https://scholar.google.com/citations?user=PcmyXHMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Feng Zheng</a>.</p>
+    <p>I am <strong>Qingni Wang (Celia)</strong>, a PhD student in Computer Science at the <strong>University of California, Santa Barbara (UCSB)</strong>, advised by <a href="https://eric-xw.github.io" target="_blank" rel="noopener noreferrer">Prof. Xin Eric Wang</a> and <a href="https://buyuheng.github.io" target="_blank" rel="noopener noreferrer">Prof. Yuheng Bu</a>.</p>
+    <p>Previously, I received my Master’s degree from the <strong>University of Electronic Science and Technology of China (UESTC)</strong> and my Bachelor’s degree from <strong>China University of Mining and Technology (CUMT)</strong>. I also visited <strong>Southern University of Science and Technology (SUSTECH)</strong>, supervised by <a href="https://scholar.google.com/citations?user=PcmyXHMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Feng Zheng</a>.</p>
     <p class="research-line"><strong>Research interests:</strong> uncertainty quantification, conformal prediction and risk control, hallucination in question answering, and trustworthy computer use agents.</p>
     <p class="open-note">Open to collaborations and academic discussions — feel free to reach out.</p>
   </section>
@@ -66,10 +65,12 @@ redirect_from:
   <section id="service" class="content-section">
     <h2>Academic Services</h2>
     <ul class="service-list">
-      <li>International Conference on Learning Representations <span>ICLR 2026</span></li>
-      <li>Annual Meeting of the Association for Computational Linguistics <span>ACL 2025</span></li>
-      <li>Conference on Empirical Methods in Natural Language Processing <span>EMNLP 2025</span></li>
-      <li>ACM International Conference on Multimedia <span>MM 2025</span></li>
+      <li>ICLR <span>2027</span></li>
+      <li>NeurIPS <span>2026</span></li>
+      <li>ICLR <span>2026</span></li>
+      <li>ACL <span>2025</span></li>
+      <li>EMNLP <span>2025</span></li>
+      <li>MM <span>2025</span></li>
     </ul>
   </section>
 

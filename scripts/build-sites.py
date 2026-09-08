@@ -14,6 +14,8 @@ paths = [
     "index.html", "about.html", "about/index.html", "sitemap.xml",
     "assets/css/home.css", "assets/mountain.jpg",
     "assets/bing.jpg", "images/favicon.ico", "public/og.png",
+    "assets/fonts/fa-solid-900.woff2", "assets/fonts/fa-brands-400.woff2",
+    "assets/fonts/academicons.woff",
 ]
 assets = {}
 for name in paths:
