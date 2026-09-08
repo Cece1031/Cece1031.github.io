@@ -66,22 +66,17 @@ redirect_from:
     </ul>
   </section>
 
-  <section class="content-section visitor-section">
-    <div>
-      <h2>Visitor Map</h2>
-      <p>Visitors from around the world.</p>
-      <a href="https://s01.flagcounter.com/more/OpEY/" target="_blank" rel="noopener noreferrer">View visitor details ↗</a>
-    </div>
-    <a class="visitor-map" href="https://s01.flagcounter.com/more/OpEY/" target="_blank" rel="noopener noreferrer">
-      <img src="https://s01.flagcounter.com/map/OpEY/size_t/txt_765783/border_EADFEA/pageviews_1/viewers_3/flags_0/" alt="World visitor map and pageview count" width="250" height="140">
-    </a>
-  </section>
-
   <section class="content-section more">
     <div>
       <h2>More About Me</h2>
       <p>I have a very cute cat named Bingbing (饼饼).</p>
     </div>
     <img src="{{ '/assets/bing.jpg' | relative_url }}" alt="Bingbing, Qingni's golden cat" width="1280" height="1216" loading="lazy">
+  </section>
+
+  <section class="visitor-section" aria-label="Visitor map">
+    <a class="visitor-map" href="https://s01.flagcounter.com/more/OpEY/" target="_blank" rel="noopener noreferrer">
+      <img src="https://s01.flagcounter.com/map/OpEY/size_t/txt_765783/border_EADFEA/pageviews_1/viewers_3/flags_0/" alt="World visitor map and pageview count" width="250" height="140">
+    </a>
   </section>
 </div>
