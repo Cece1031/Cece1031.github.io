@@ -1,0 +1,13 @@
+<a href="mailto:{{ site.author.email }}"><span aria-hidden="true">↗</span> Email</a>
+<a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">↗</span> Scholar</a>
+<a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">↗</span> GitHub</a>
+{% if site.author.twitter and site.author.twitter != '' %}
+  {% assign twitter_url = site.author.twitter %}
+  {% unless twitter_url contains '://' %}{% assign twitter_url = twitter_url | remove: '@' | prepend: 'https://x.com/' %}{% endunless %}
+  <a href="{{ twitter_url | escape }}" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">↗</span> X / Twitter</a>
+{% endif %}
+{% if site.author.linkedin and site.author.linkedin != '' %}
+  {% assign linkedin_url = site.author.linkedin %}
+  {% unless linkedin_url contains '://' %}{% assign linkedin_url = linkedin_url | prepend: 'https://www.linkedin.com/in/' %}{% endunless %}
+  <a href="{{ linkedin_url | escape }}" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">↗</span> LinkedIn</a>
+{% endif %}
