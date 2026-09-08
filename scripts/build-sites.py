@@ -12,7 +12,7 @@ root = Path(__file__).resolve().parents[1]
 source = root / "_site"
 paths = [
     "index.html", "about.html", "about/index.html", "sitemap.xml",
-    "assets/css/home.css", "assets/js/home.js", "assets/mountain.jpg",
+    "assets/css/home.css", "assets/mountain.jpg",
     "assets/bing.jpg", "images/favicon.ico", "public/og.png",
 ]
 assets = {}

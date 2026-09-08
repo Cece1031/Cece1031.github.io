@@ -21,10 +21,10 @@ redirect_from:
 
   <div class="visitor-mini">
     <p>Visitors</p>
-    <div id="visitor-globe" class="visitor-globe" data-map-id="{{ site.visitor_map_id | escape }}">
-      <span id="visitor-status" role="status">Loading visitor map…</span>
-    </div>
-    <a href="https://clustrmaps.com/site/cece1031.github.io" target="_blank" rel="noopener noreferrer">View visitor map ↗</a>
+    <a class="visitor-map" href="{{ site.visitor_map_stats_url }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ site.visitor_map_url }}" alt="Visitor map and pageview count" width="100" height="65" loading="lazy">
+    </a>
+    <a href="{{ site.visitor_map_stats_url }}" target="_blank" rel="noopener noreferrer">View visitor details ↗</a>
   </div>
 </aside>
 

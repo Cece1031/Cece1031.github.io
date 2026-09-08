@@ -152,25 +152,14 @@ nav a {
   letter-spacing: 1.4px;
   text-transform: uppercase;
 }
-.visitor-globe {
-  min-height: 112px;
+.visitor-map {
+  min-height: 88px;
   display: grid;
   place-items: center;
   overflow: hidden;
 }
-.visitor-globe canvas,
-.visitor-globe iframe,
-.visitor-globe img {
-  max-width: 120px !important;
-  max-height: 120px !important;
-}
-#visitor-status {
-  max-width: 120px;
-  color: var(--muted);
-  font-size: 9px;
-  line-height: 1.5;
-}
-#visitor-status[hidden] { display: none; }
+.visitor-map:hover { text-decoration: none; }
+.visitor-map img { max-width: 100%; }
 .visitor-mini > a {
   font-size: 9px;
   color: #88758f;

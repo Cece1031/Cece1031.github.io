@@ -16,12 +16,12 @@ Edit `_data/publications.yml` and `_data/news.yml`. News older than the first
 three entries lives in the accessible “Earlier updates” disclosure.
 Original academic claims and dates are retained from the prior homepage.
 
-## Visitor globe
+## Visitor map
 
-The footer reuses the original ClustrMaps account configured as `visitor_map_id`
-in `_config.yml`. It loads when a visitor approaches the footer and shows a
-fallback message if the third-party service cannot load. It does not fabricate
-visitor counts. The map service must remain active for the globe to display.
+The compact left-column widget uses the account-free Flag Counter map configured
+as `visitor_map_url` and `visitor_map_stats_url` in `_config.yml`. It is a plain
+image rather than a JavaScript embed, so it works on GitHub Pages and still
+shows a useful fallback alt label if the third-party image cannot load.
 
 ## Build
 

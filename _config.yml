@@ -47,7 +47,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/qingni-wang-6b797b364?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -55,15 +55,16 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://x.com/ceeqnn?s=21"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
 
-# Existing ClustrMaps account; the widget loads near the footer.
-visitor_map_id: "GmQTJITWBrhki7IrC2ZWaghIYzQxLnX-THewU48IXW8"
+# Compact Flag Counter map; generated for this homepage without an account.
+visitor_map_url: "https://s01.flagcounter.com/map/OpEY/size_t/txt_765783/border_EADFEA/pageviews_1/viewers_3/flags_0/"
+visitor_map_stats_url: "https://info.flagcounter.com/OpEY"
 
 
 # Reading Files
