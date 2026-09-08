@@ -12,8 +12,11 @@ root = Path(__file__).resolve().parents[1]
 source = root / "_site"
 paths = [
     "index.html", "about.html", "about/index.html", "sitemap.xml",
-    "assets/css/home.css", "assets/mountain.jpg",
-    "assets/bing.jpg", "images/favicon.ico", "public/og.png",
+    "assets/css/home.css", "assets/js/theme.js", "assets/mountain.jpg",
+    "assets/bing.jpg", "images/cat-favicon-v2.svg",
+    "images/cat-favicon-v2.ico", "images/cat-touch-v2.png",
+    "images/cat-icon-192-v2.png", "images/cat-icon-512-v2.png",
+    "images/site.webmanifest", "favicon.ico", "public/cat-og-v2.png",
     "assets/fonts/fa-solid-900.woff2", "assets/fonts/fa-brands-400.woff2",
     "assets/fonts/academicons.woff",
 ]
