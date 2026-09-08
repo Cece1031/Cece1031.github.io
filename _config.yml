@@ -11,6 +11,8 @@ description              : "Qingni Wang (Celia) — research in trustworthy AI, 
 url                      : "https://cece1031.github.io"
 baseurl                  : ""
 social_image             : "/public/og.png"
+profile_x_url            : "https://x.com/ceeqnn?s=21"
+profile_linkedin_url     : "https://www.linkedin.com/in/qingni-wang-6b797b364?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
 # description              : "Master student UESTC"
 repository               : "cece1031/cece1031.github.io"
 google_scholar_stats_use_cdn : true

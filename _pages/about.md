@@ -18,13 +18,6 @@ redirect_from:
     {% include social-links.html %}
   </div>
 
-  <div class="visitor-mini">
-    <p>Visitors</p>
-    <a class="visitor-map" href="{{ site.visitor_map_stats_url }}" target="_blank" rel="noopener noreferrer">
-      <img src="{{ site.visitor_map_url }}" alt="Visitor map and pageview count" width="100" height="65" loading="lazy">
-    </a>
-    <a href="{{ site.visitor_map_stats_url }}" target="_blank" rel="noopener noreferrer">View visitor details ↗</a>
-  </div>
 </aside>
 
 <div id="content" class="content">
@@ -32,7 +25,7 @@ redirect_from:
     <h2>About Me</h2>
     <p>I am <strong>Qingni Wang (Celia)</strong>, a PhD student in Computer Science at the <strong>University of California, Santa Barbara (UCSB)</strong>, advised by <a href="https://eric-xw.github.io" target="_blank" rel="noopener noreferrer">Prof. Xin Eric Wang</a> and <a href="https://buyuheng.github.io" target="_blank" rel="noopener noreferrer">Prof. Yuheng Bu</a>.</p>
     <p>Previously, I received my Master’s degree from the <strong>University of Electronic Science and Technology of China (UESTC)</strong> and my Bachelor’s degree from <strong>China University of Mining and Technology (CUMT)</strong>. I also visited <strong>Southern University of Science and Technology (SUSTECH)</strong>, supervised by <a href="https://scholar.google.com/citations?user=PcmyXHMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Feng Zheng</a>.</p>
-    <p class="research-line"><strong>Research interests:</strong> uncertainty quantification, conformal prediction and risk control, hallucination in question answering, and trustworthy computer use agents.</p>
+    <p class="research-line"><strong>Research interests:</strong> uncertainty quantification, trustworthy computer use agents, hallucination in question answering and conformal prediction and risk control.</p>
     <p class="open-note">Open to collaborations and academic discussions — feel free to reach out.</p>
   </section>
 
@@ -65,13 +58,23 @@ redirect_from:
   <section id="service" class="content-section">
     <h2>Academic Services</h2>
     <ul class="service-list">
-      <li>ICLR <span>2027</span></li>
-      <li>NeurIPS <span>2026</span></li>
-      <li>ICLR <span>2026</span></li>
-      <li>ACL <span>2025</span></li>
-      <li>EMNLP <span>2025</span></li>
-      <li>MM <span>2025</span></li>
+      <li><span>ICLR</span><span>2027, 2026</span></li>
+      <li><span>NeurIPS</span><span>2026</span></li>
+      <li><span>ACL</span><span>2025</span></li>
+      <li><span>EMNLP</span><span>2025</span></li>
+      <li><span>MM</span><span>2025</span></li>
     </ul>
+  </section>
+
+  <section class="content-section visitor-section">
+    <div>
+      <h2>Visitor Map</h2>
+      <p>Visitors from around the world.</p>
+      <a href="https://s01.flagcounter.com/more/OpEY/" target="_blank" rel="noopener noreferrer">View visitor details ↗</a>
+    </div>
+    <a class="visitor-map" href="https://s01.flagcounter.com/more/OpEY/" target="_blank" rel="noopener noreferrer">
+      <img src="https://s01.flagcounter.com/map/OpEY/size_t/txt_765783/border_EADFEA/pageviews_1/viewers_3/flags_0/" alt="World visitor map and pageview count" width="250" height="140">
+    </a>
   </section>
 
   <section class="content-section more">

@@ -24,7 +24,9 @@ for name in paths:
         "type": mimetypes.guess_type(name)[0] or "application/octet-stream",
         "body": base64.b64encode(data).decode("ascii"),
     }
+visitor_map_url = "https://s01.flagcounter.com/map/OpEY/size_t/txt_765783/border_EADFEA/pageviews_1/viewers_3/flags_0/"
 worker = "const assets = " + json.dumps(assets, separators=(",", ":")) + ";\n"
+worker += "const visitorMapUrl = " + json.dumps(visitor_map_url) + ";\n"
 worker += r'''
 export default {
   async fetch(request) {
@@ -32,6 +34,13 @@ export default {
       return new Response('Method not allowed', {status: 405, headers: {Allow: 'GET, HEAD'}});
     }
     const url = new URL(request.url);
+    if (url.pathname === '/visitor-map.png') {
+      const upstream = await fetch(visitorMapUrl);
+      if (!upstream.ok) return new Response('Visitor map unavailable', {status: 502});
+      return new Response(request.method === 'HEAD' ? null : upstream.body, {
+        headers: {'Content-Type': 'image/png', 'Cache-Control': 'public, max-age=300'}
+      });
+    }
     if (url.pathname === '/about' || url.pathname === '/about/' || url.pathname === '/about.html') {
       return Response.redirect(url.origin + '/', 301);
     }
@@ -40,7 +49,9 @@ export default {
     if (!asset) return new Response('Page not found', {status: 404});
     let bytes = Uint8Array.from(atob(asset.body), c => c.charCodeAt(0));
     if (asset.type === 'text/html' || asset.type === 'application/xml') {
-      const text = new TextDecoder().decode(bytes).replaceAll('https://cece1031.github.io', url.origin);
+      const text = new TextDecoder().decode(bytes)
+        .replaceAll('https://cece1031.github.io', url.origin)
+        .replaceAll(visitorMapUrl, url.origin + '/visitor-map.png');
       bytes = new TextEncoder().encode(text);
     }
     return new Response(request.method === 'HEAD' ? null : bytes, {
