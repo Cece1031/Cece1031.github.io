@@ -22,7 +22,7 @@ redirect_from:
 
 <div id="content" class="content">
   <section id="about" class="content-section about">
-    <h2>About Me</h2>
+    <h2>About Me 🙆‍♀️</h2>
     <p>I am <strong>Qingni Wang (Celia)</strong>, a PhD student in Computer Science at the <strong>University of California, Santa Barbara (UCSB)</strong>, advised by <a href="https://eric-xw.github.io" target="_blank" rel="noopener noreferrer">Prof. Xin Eric Wang</a> and <a href="https://buyuheng.github.io" target="_blank" rel="noopener noreferrer">Prof. Yuheng Bu</a>.</p>
     <p>Previously, I received my Master’s degree from the <strong>University of Electronic Science and Technology of China (UESTC)</strong> and my Bachelor’s degree from <strong>China University of Mining and Technology (CUMT)</strong>. I also visited <strong>Southern University of Science and Technology (SUSTECH)</strong>, supervised by <a href="https://scholar.google.com/citations?user=PcmyXHMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Feng Zheng</a>.</p>
     <p class="research-line"><strong>Research interests:</strong> uncertainty quantification, trustworthy computer use agents, hallucination in question answering and conformal prediction and risk control.</p>
@@ -30,7 +30,7 @@ redirect_from:
   </section>
 
   <section id="news" class="content-section">
-    <h2>News</h2>
+    <h2>News 🗞️</h2>
     <ul class="news-list">
       {% for item in site.data.news %}
       <li><time>{{ item.date }}</time><span>{{ item.text }}</span></li>
@@ -40,7 +40,7 @@ redirect_from:
 
   <section id="publications" class="content-section">
     <div class="section-heading-row">
-      <h2>Publications</h2>
+      <h2>Publications 📜</h2>
       <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer">Google Scholar ↗</a>
     </div>
     <p class="section-note">† Equal contribution</p>
@@ -56,7 +56,7 @@ redirect_from:
   </section>
 
   <section id="service" class="content-section">
-    <h2>Academic Services</h2>
+    <h2>Academic Services 👩‍🔧</h2>
     <ul class="service-list">
       <li><span>ICLR</span><span>2027, 2026</span></li>
       <li><span>NeurIPS</span><span>2026</span></li>
@@ -68,7 +68,7 @@ redirect_from:
 
   <section class="content-section more">
     <div>
-      <h2>More About Me</h2>
+      <h2>More About Me 🐈</h2>
       <p>I have a very cute cat named Bingbing (饼饼).</p>
     </div>
     <img src="{{ '/assets/bing.jpg' | relative_url }}" alt="Bingbing, Qingni's golden cat" width="1280" height="1216" loading="lazy">
