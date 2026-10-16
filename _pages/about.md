@@ -26,6 +26,7 @@ redirect_from:
     <p>I am <strong>Qingni Wang (Celia)</strong>, a CS PhD student in Computer Science at the <strong>University of California, Santa Barbara (UCSB)</strong>, advised by <a href="https://eric-xw.github.io" target="_blank" rel="noopener noreferrer">Prof. Xin Eric Wang</a> and <a href="https://buyuheng.github.io" target="_blank" rel="noopener noreferrer">Prof. Yuheng Bu</a>.</p>
     <p>Previously, I received my Master’s degree from the <strong>University of Electronic Science and Technology of China (UESTC)</strong> and my Bachelor’s degree from <strong>China University of Mining and Technology (CUMT)</strong>. I also visited <strong>Southern University of Science and Technology (SUSTECH)</strong>, supervised by <a href="https://scholar.google.com/citations?user=PcmyXHMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Feng Zheng</a>.</p>
     <p class="research-line"><strong>Research interests:</strong> uncertainty quantification, trustworthy computer use agents, hallucination in question answering and conformal prediction and risk control.</p>
+    <p class="internship-note"><span aria-hidden="true">✦</span> Currently seeking <strong>Summer 2027 internship</strong> opportunities.</p>
     <p class="open-note">Open to collaborations and academic discussions — feel free to reach out.</p>
   </section>
 

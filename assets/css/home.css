@@ -295,6 +295,21 @@ nav a {
   color: var(--purple);
   font-size: 12px;
 }
+.internship-note {
+  width: fit-content;
+  margin: 14px 0 8px !important;
+  padding: 6px 11px;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  border: 1px solid var(--line);
+  border-left: 2px solid var(--purple);
+  background: var(--soft);
+  color: var(--body);
+  font-size: 12px;
+}
+.internship-note > span,
+.internship-note strong { color: var(--purple); }
 
 .news-list,
 .service-list {
