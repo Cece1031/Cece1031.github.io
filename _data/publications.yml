@@ -1,3 +1,7 @@
+- title: "LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents"
+  authors: "<strong>Qingni Wang</strong>, Changdae Oh, Yuzhe Yang, Sharon Li, Jiachen Yang, Ang Li, Xin Eric Wang"
+  venue: "PREPRINT"
+  url: "https://arxiv.org/pdf/2610.22280"
 - title: "SAFER: Risk-Constrained Sample-then-Filter in Large Language Models"
   authors: "<strong>Qingni Wang</strong>, Yue Fan, Xin Eric Wang"
   venue: "ICLR 2026"
